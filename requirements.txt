@@ -1,0 +1,13 @@
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+joblib>=1.4
+plotly>=5.24
+sqlalchemy>=2.0
+python-dotenv>=1.0
+
+# Backend API (optional standalone service)
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8

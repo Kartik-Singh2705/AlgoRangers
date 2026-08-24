@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+models/*.joblib
+models/*.json
+data/raw/*.csv
+data/processed/*
+!data/raw/README.md
+!data/processed/.gitkeep
